@@ -4,7 +4,7 @@ This is the LUDO project guys
 So I didn't use any rendering library, you just press Enter and play the game.
 You may notice that the language is in French because I'm fluent in French so I used it in the gameplay and some english in the code (cause french name for variable and functions are too long).
 
-The classic mode is the ludo you use to play and the "No Mercy" mode is a new mode where the base are shared so a player can be hunted until he reaches the center.
+The classic mode is the ludo you used to play on phone and the "No Mercy" mode is a new mode where the base are shared so a player can be hunted until he reaches the center.
 
 Some explanation about the "No Mercy" mode:
 -The bases are shared
