@@ -12,6 +12,7 @@ Some explanation about the "No Mercy" mode:
 -There are two kinds of star: the white one and the purple one
 -If a player stops at a purple star another player is teleported behind him at the corner(that's the summon function in the code for)
 -There is a new number on the dice: the "0"
+-The probability of getting a "6" is not increased
 -It only supports 4 players
 
 I think that's all.
